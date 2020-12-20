@@ -1,0 +1,4 @@
+#!/bin/sh
+rm parser
+rm parser.cmi
+rm parser.cmo
